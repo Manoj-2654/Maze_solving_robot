@@ -279,6 +279,10 @@ rviz2
 # Click "2D Goal Pose"
 # Select destination point
 
+# STEP 16 : Open a new terminal 
+# Run python3 dynamic_maze.py
+# This starts spawning the maze walls dynamically
+
 # Robot will navigate automatically
 ```
 
